@@ -1,0 +1,8 @@
+.menu {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  list-style-type: none;
+  box-sizing: border-box;
+  padding-left: 0;
+}
